@@ -62,7 +62,7 @@ class Contact extends Component {
                   <div data-netlify-recaptcha="true"></div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     <button type="submit" className="submit">Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>

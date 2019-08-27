@@ -123,9 +123,15 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Buff Trivia",
+        "title":"Buffs Trivia",
         "category":"Trivia Skill for Alexa based on the University of Colorado",
         "image":"alexa.jpg",
+        "url":"https://www.amazon.com/gp/product/B07W7ZD24K?ref&ref=cm_sw_tw_r_as_dp_UTosIMFh1LlqI"
+      },
+      {
+        "title":"Buffs Trivia",
+        "category":"Website for Buffs Trivia game to take questions using React and Netlify.",
+        "image":"buffs.jpg",
         "url":"https://www.buffstrivia.com"
       },
       {

@@ -109,9 +109,9 @@
         "image":"alexa.png"
       },
       {
-        "name":"Bootstrap 4",
-        "description":"I've used bootstrap on a few projects as it's more widely used than foundation which I used on my first couple of projects.",
-        "image":"bootstrap.jpg"
+        "name":"React Native",
+        "description":"I've built a few react native apps and look forward to working on a few more in the future.",
+        "image":"react-native-icon.png"
       },
       {
         "name":"Heroku",

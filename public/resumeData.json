@@ -2,7 +2,7 @@
   "main": {
     "name":"Chris Dunn",
     "occupation":"Fullstack Developer",
-    "description":"who focuses on Voice Skills for Alexa development ",
+    "description":"who has an interest in Voice Skills for Alexa development ",
     "school":"University of Colorado",
     "degree":"",
     "image":"../images/profile-pic.jpg",
@@ -57,6 +57,12 @@
       }
     ],
     "work":[
+      {
+        "company": "Freelance Developer",
+        "title": "Developer/Strategist",
+        "years": "January 2018 - Today",
+        "description": "For the past several years I've worked with startups/non-profits helping with both their tech strategies as well as code development.  "
+      },
       {
         "company":"Launch Academy",
         "title":"Full Stack Developer",
@@ -135,10 +141,10 @@
         "url":"https://www.buffstrivia.com"
       },
       {
-        "title":"2020 Meme-Maker",
-        "category":"React app that allows users to create meme's of 2020 presidential candidates",
-        "image":"meme-maker.png",
-        "url":"http://www.2020mememaker.com"
+        "title":"The Cancer Collective",
+        "category":"Fullstack Rails/React app that displays art from cancer patients",
+        "image":"cancer-collective.png",
+        "url":"http://www.thecancercollective.com"
       },
       {
         "title":"Farina Roofing",
